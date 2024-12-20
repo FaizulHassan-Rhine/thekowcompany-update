@@ -207,6 +207,59 @@ const Career = () => {
       date: "31 July, 2024",
     },
     {
+      id: 5,
+      title: "Junior Executive, Client & Project Management",
+      description: `  <div class="job-des">
+ <h1>Junior Executive, Client & Project Management</h1>
+ <p><strong>Employment Type: </strong> Full Time</p>
+ <p><strong>Open Position: </strong> 02 </p>
+ <p><strong>Deadline: </strong> Priority will be given to applications submitted before <span class="deadline">December 20, 2024</span>, with the final deadline being <span class="deadline">December 31, 2024</span> by 11:59 PM (GMT+6) </p>
+    <p>We are seeking a dynamic and detail-oriented “Junior Executive, Client & Project Management” to manage various image and video post-production projects for our organization.</p>
+    <h3>Role Requirements:</h3>
+    <ul>
+        <li>Oversee & manage end-to-end project lifecycle for all post-production projects.</li>
+        <li>Coordinate with clients to define project scope, goals, deliverables, required resources, budget & timing.</li>
+        <li>Develop detailed project plans.</li>
+        <li>Communicate and collaborate with production & editing teams to align objectives.</li>
+        <li>Manage client relationships, ensure client satisfaction & manage client expectations in terms of project deliverables.</li>
+        
+    </ul>
+    <h3>Competencies: </h3>
+    <ul>
+        <li>Bachelor's degree in Business, Management, or any related field. Proven working experience in project management or related field is a bonus.</li>
+        <li>Freshers are also encouraged to apply.</li>
+        <li>Experience in image & video post-production processes (editing, color grading, masking etc.) is a plus.</li>
+        <li>Excellent client-oriented & internal communication skills.</li>
+        <li>Proficiency with project management software tools, MS Office Suites, methodologies & best practices.</li>
+        
+    </ul>
+   <p class ="shift-p"><b>Shift:</b> Morning and Night Shifts (on a monthly rotating roster basis)<p>
+    <h3>Fringe benefits: </h3>
+    <ol>
+        <li>🎁 Festival Bonuses: Enjoy 2 Festival Bonuses as per company policy.</li>
+        <li>🍽️ Meal Facility: Fully subsidized meal facility to keep you fueled throughout the day.</li>
+        <li>📈Profit Sharing: Annually or quarterly as per company policy.</li>
+        <li>🌿 Healthy Work Environment: Work in a supportive and positive atmosphere.</li>
+        <li>🎄 Christmas Leave: Celebrate the holidays with a special leave.</li>
+        <li>🚀 Career Advancement: Opportunities for growth and professional development.</li>
+        <li>🏝️ Yearly Office Retreat: Relax and recharge with your colleagues.</li>
+        <li>🎉 Events Celebration: Enjoy various events celebrated at our office premises.</li>
+        <li>🏏 Annual Tournaments: Participate in our Annual Cricket and Football Tournament.</li>
+        <li>🎲 Indoor Games: Have fun with Carrom and Table Tennis during breaks.</li>
+        
+       
+    </ol>
+     <p><strong>Salary:</strong> Negotiable based on experience and qualifications.</p>
+      <p><strong>How to Apply:</strong> Please submit your updated CV and cover letter to <span class="email-address">career@thekowcompany.com</span> by the deadline. Mention in the Subject Line: Applying as a <b>“Junior Executive, Client & Project Management”</b>.</p>
+      <p></p>
+   
+   
+    <p class="normal-p">Don't miss out on this fantastic opportunity to advance your career and become a part of the TKCL family! Apply now and take the next step in your professional journey.</p>
+    
+</div>`,
+      date: "31 December, 2024",
+    },
+    {
       id: 6,
       title: "SEO Expert",
       description: `  <div class="job-des">
@@ -361,7 +414,7 @@ const Career = () => {
        
     </ul>
      <p><strong>Salary Range:</strong> BDT 25,000 - BDT 35,000 per month</p>
-      <p><strong>How to Apply:</strong> If you are passionate about SEO and ready to make an impact, send your resume to <span class="email-address">career@thekowcompany.com</span> by the deadline. Mention in the Subject Line: Applying as a <b>“SEO Expert Application”</b>.</p>
+      <p><strong>How to Apply:</strong> If you are passionate about SEO and ready to make an impact, send your resume to <span class="email-address">career@thekowcompany.com</span> by the deadline. Mention in the Subject Line: Applying as a <b>“SEO Expert Application – [Your Name]”</b>.</p>
       <p></p>
    
    
@@ -370,59 +423,7 @@ const Career = () => {
 </div>`,
       date: "20 January, 2025",
     },
-    {
-      id: 6,
-      title: "Junior Executive, Client & Project Management",
-      description: `  <div class="job-des">
- <h1>Junior Executive, Client & Project Management</h1>
- <p><strong>Employment Type: </strong> Full Time</p>
- <p><strong>Open Position: </strong> 02 </p>
- <p><strong>Deadline: </strong> Priority will be given to applications submitted before <span class="deadline">December 20, 2024</span>, with the final deadline being <span class="deadline">December 31, 2024</span> by 11:59 PM (GMT+6) </p>
-    <p>We are seeking a dynamic and detail-oriented “Junior Executive, Client & Project Management” to manage various image and video post-production projects for our organization.</p>
-    <h3>Role Requirements:</h3>
-    <ul>
-        <li>Oversee & manage end-to-end project lifecycle for all post-production projects.</li>
-        <li>Coordinate with clients to define project scope, goals, deliverables, required resources, budget & timing.</li>
-        <li>Develop detailed project plans.</li>
-        <li>Communicate and collaborate with production & editing teams to align objectives.</li>
-        <li>Manage client relationships, ensure client satisfaction & manage client expectations in terms of project deliverables.</li>
-        
-    </ul>
-    <h3>Competencies: </h3>
-    <ul>
-        <li>Bachelor's degree in Business, Management, or any related field. Proven working experience in project management or related field is a bonus.</li>
-        <li>Freshers are also encouraged to apply.</li>
-        <li>Experience in image & video post-production processes (editing, color grading, masking etc.) is a plus.</li>
-        <li>Excellent client-oriented & internal communication skills.</li>
-        <li>Proficiency with project management software tools, MS Office Suites, methodologies & best practices.</li>
-        
-    </ul>
-   <p class ="shift-p"><b>Shift:</b> Morning and Night Shifts (on a monthly rotating roster basis)<p>
-    <h3>Fringe benefits: </h3>
-    <ol>
-        <li>🎁 Festival Bonuses: Enjoy 2 Festival Bonuses as per company policy.</li>
-        <li>🍽️ Meal Facility: Fully subsidized meal facility to keep you fueled throughout the day.</li>
-        <li>📈Profit Sharing: Annually or quarterly as per company policy.</li>
-        <li>🌿 Healthy Work Environment: Work in a supportive and positive atmosphere.</li>
-        <li>🎄 Christmas Leave: Celebrate the holidays with a special leave.</li>
-        <li>🚀 Career Advancement: Opportunities for growth and professional development.</li>
-        <li>🏝️ Yearly Office Retreat: Relax and recharge with your colleagues.</li>
-        <li>🎉 Events Celebration: Enjoy various events celebrated at our office premises.</li>
-        <li>🏏 Annual Tournaments: Participate in our Annual Cricket and Football Tournament.</li>
-        <li>🎲 Indoor Games: Have fun with Carrom and Table Tennis during breaks.</li>
-        
-       
-    </ol>
-     <p><strong>Salary:</strong> Negotiable based on experience and qualifications.</p>
-      <p><strong>How to Apply:</strong> Please submit your updated CV and cover letter to <span class="email-address">career@thekowcompany.com</span> by the deadline. Mention in the Subject Line: Applying as a <b>“Junior Executive, Client & Project Management”</b>.</p>
-      <p></p>
-   
-   
-    <p class="normal-p">Don't miss out on this fantastic opportunity to advance your career and become a part of the TKCL family! Apply now and take the next step in your professional journey.</p>
-    
-</div>`,
-      date: "31 December, 2024",
-    },
+  
     {
       id: 7,
       title: "Staff Software Engineer – .NET Core ",
@@ -576,8 +577,8 @@ const Career = () => {
             </div>
           </div>
 
-          <div className="flex flex-col items-center">
-            <div className=" md:w-[450px] 2xl:w-[465px] mt-5 border-black border-l-2 pl-3">
+          <div className="flex flex-col items-center 2xl:pl-44">
+            <div className=" md:w-[450px] 2xl:w-[650px] mt-5 border-black border-l-2 pl-3 ">
               {jobCircular.map((item, index) => (
                 <>
                   {compareCurrentDate(item.date) && (
@@ -590,7 +591,7 @@ const Career = () => {
                       >
                         <span> {item.title}</span>
                       </button>
-                      <div>
+                      <div >
                         <h1 className="text-xs 2xl:text-[14px]">
                           Deadline :{" "}
                           <span className="text-red-700 ">{item.date}</span>
@@ -662,7 +663,7 @@ const Career = () => {
             <div className="flex justify-center  md:justify-end w-full md:w-[900px] 2xl:w-[1100px] ">
               <img
                 src="/img/chair-shadow.png"
-                className=" max-w-[230px]   md:max-w-[300px] md:max-h-[270px] md:-mt-[90px]  "
+                className=" max-w-[230px]   md:max-w-[300px] md:max-h-[270px] md:-mt-[90px] 2xl:-mt-[50px]   "
               />
             </div>
           </div>
