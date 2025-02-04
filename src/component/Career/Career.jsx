@@ -498,6 +498,82 @@ const Career = () => {
 </div>`,
       date: "1 December, 2024",
     },
+    
+    {
+      id: 8,
+      title: "Senior Front-End Developer",
+      description: `  <div class="job-des">
+ <h1>Experience Required</h1>
+ <p><strong>Employment Type: </strong> Full Time</p>
+ <p><strong>Open Position: </strong> 01 </p>
+ <p><strong>Experience Required: </strong> Minimum 2 years</p>
+ <p><strong>Deadline: </strong><span class="deadline"> February 13, 2025 </span>(Priority will be given to candidates applying before <span class="deadline">25 January ,2025</span>)</p>
+ </br>
+ <h3>About The KOW Company:</h3>
+<p>The KOW Company emphasizes quality and innovation, offering services that include image editing, video editing, and computer-generated imagery (CGI). Their commitment to solving client problems and delivering high-quality solutions has positioned them as a rapidly growing entity in Bangladesh's post-production sector.</p>    
+ 
+ </br>
+ <p><b>Educational Requirements:</b> We value skill and expertise above everything, so individuals from any educational background are welcome to apply.</p>
+</br>
+  <h3>Key Responsibilities:</h3>
+  <ul>
+        <li>Develop responsive, pixel-perfect web applications using React.js and Tailwind CSS.</li>
+        <li>Leverage Figma Dev Mode to accurately translate designs into clean HTML/CSS code.</li>
+        <li>Build modular and reusable components with a focus on performance and scalability.</li>
+        <li>Integrate APIs and ensure seamless communication between frontend and backend systems.</li>
+        <li>Create and optimize UI animations using CSS, JavaScript, or libraries such as Framer Motion.</li>
+    </ul>
+   <h3>Required Skills:</h3>
+  <ul>
+        <li>HTML/CSS: Proficiency in creating pixel-perfect, responsive, and cross-browser-compatible UIs.</li>
+		<li>JavaScript/TypeScript: Strong understanding of modern ES6+ features and TypeScript.</li>
+		<li>React.js: Advanced experience, including custom hooks, state management (e.g., Redux), and component lifecycle</li>
+		<li>Tailwind CSS: Deep expertise in building modern, responsive interfaces.</li>
+		<li>React Three.js: Hands-on experience with 3D visualization and interactive 3D object creation.</li>
+		<li>Next.js: Familiarity with server-side rendering (SSR), static site generation (SSG), and deployment workflows.</li>
+		<li>Firebase: Experience integrating Firebase services for authentication, database, and hosting.</li>
+		<li>Authentication: Proficient in implementing JWT, OAuth, and secure REST API interactions.</li>
+		<li>Version Control: Solid experience with Git for collaboration and versioning.</li>
+    </ul>
+    <h3>Bonus Skills:</h3>
+  <ul>
+      <li>Testing: Knowledge of TDD and frameworks like Jest, React Testing Library, or Cypress.</li>
+      <li>Additional Frameworks: Familiarity with Vue.js or Node.js.</li>
+	  <li>DevOps: Understanding of containerization (Docker) and orchestration (Kubernetes).</li>
+	  <li>Agile Practices: Experience with Scrum or Kanban using tools like Jira.</li>
+    </ul>
+   
+    <h3>Fringe benefits: </h3>
+    <ol>
+      <li>🎁 Festival Bonuses: Enjoy 2 Festival Bonuses as per company policy.</li>
+      <li>🍽️ Meal Facility: Fully subsidized meal facility to keep you fueled throughout the day.</li>
+      <li>📈 Profit Sharing: Annually or quarterly as per company policy.</li>
+      <li>🌿 Healthy Work Environment: Work in a supportive and positive atmosphere.</li>
+      <li>🎄 Christmas Leave: Celebrate the holidays with a special leave.</li>
+      <li>🚀 Career Advancement: Opportunities for growth and professional development.</li>
+      <li>🏝️ Yearly Office Retreat: Relax and recharge with your colleagues.</li>
+      <li>🎉 Events Celebration: Enjoy various events celebrated at our office premises.</li>
+      <li>🏏 Annual Tournaments: Participate in our Annual Cricket and Football Tournament.</li>
+      <li>🎲 Indoor Games: Have fun with Carrom and Table Tennis during breaks.</li>
+        
+       
+    </ol>
+</br>
+	<h3>Why Join The KOW Company?</h3>
+	<p>Be part of a growing team focused on innovation and results.</p>
+	<p>Opportunity to learn and grow in a collaborative environment.</p>
+	<p>Exposure to a variety of tools, platforms, and hands-on projects.</p>
+	
+	</br>
+	
+	<p><strong>How to Apply:</strong> Send your resume to <span class="email-address">career@thekowcompany.com</span> by the deadline. Mention in the Subject Line: Applying as a <strong>“Senior Front-End Developer – [Your Name]”</strong></p>
+	
+	</br>
+	<p><i>Don't miss out on this fantastic opportunity to advance your career and become a part of the TKCL family! Apply now and take the next step in your professional journey.</i></p>
+
+`,
+      date: "13 February, 2025",
+    }
   ]);
   const [isOpen, setIsOpen] = useState(false);
   const [cvData, setCvData] = useState({});
